@@ -1,0 +1,44 @@
+{
+  "generated_at": "2026-11-24T00:00:00.000Z",
+  "entries": [
+    {
+      "id": "kenney-nature-kit",
+      "title": "Nature Kit",
+      "source_url": "https://kenney.nl/assets/nature-kit",
+      "licence": "CC0 1.0 Universal",
+      "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "licence_evidence": "License: (Creative Commons Zero, CC0)",
+      "attribution_required": false,
+      "format": "glb",
+      "served_files": 329,
+      "used_for": "Tree meshes for the two-building campus site"
+    },
+    {
+      "id": "msu-mankato-floor-plans",
+      "title": "Trafton East and Clinical Sciences building floor plans",
+      "source_url": "https://mankato.mnsu.edu/about-the-university/maps-and-transportation/maps-and-directions/university-area-map/building-floor-plans/",
+      "licence": "© Minnesota State University, Mankato. Source drawings reproduced for this demo; confirm reuse terms with the university.",
+      "attribution_required": true,
+      "format": "pdf",
+      "served_files": 4,
+      "served_paths": [
+        "assets/floorplans/tre-ground.pdf",
+        "assets/floorplans/tre-first.pdf",
+        "assets/floorplans/csb-ground.pdf",
+        "assets/floorplans/csb-first.pdf"
+      ],
+      "used_for": "Engineering Building (Trafton East) floors 1-2 and Medical School Building (Clinical Sciences) floors 1-2"
+    },
+    {
+      "id": "openstreetmap-site",
+      "title": "OpenStreetMap site geometry",
+      "source_url": "https://www.openstreetmap.org/copyright",
+      "licence": "Open Database License 1.0 (ODbL)",
+      "licence_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+      "attribution_required": true,
+      "attribution": "© OpenStreetMap contributors",
+      "format": "json (projected to local metres)",
+      "used_for": "Building footprints, road and walkway network around the two buildings"
+    }
+  ]
+}

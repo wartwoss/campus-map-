@@ -1,0 +1,83 @@
+/* Theme palettes. Flat colors only: no gradients, no glow, no gloss. */
+
+:root,
+[data-theme='glacier'] {
+  --bg: #eeeeee;
+  --surface: #ffffff;
+  --surface-2: #e8e8e8;
+  --ink: #111111;
+  --ink-2: #505050;
+  --line: #cccccc;
+  --line-strong: #777777;
+  --primary: #444444;
+  --primary-ink: #ffffff;
+  --primary-soft: #dddddd;
+  --accent: #686868;
+  --accent-ink: #ffffff;
+  --danger: #555555;
+  --map-ground: #f7f7f7;
+  --map-outside: #ededed;
+  --map-lawn: #f4f4f4;
+  --map-path: #dedede;
+  --map-path-line: #777777;
+  --map-building: #c9c9c9;
+  --map-building-line: #222222;
+  --map-building-roof: #595959;
+  --map-tree: #777777;
+  --map-inactive: #b0b0b0;
+  --route-line: #111111;
+}
+
+[data-theme='tide'] {
+  --bg: #242424;
+  --surface: #333333;
+  --surface-2: #404040;
+  --ink: #f5f5f5;
+  --ink-2: #c5c5c5;
+  --line: #555555;
+  --line-strong: #888888;
+  --primary: #d0d0d0;
+  --primary-ink: #151515;
+  --primary-soft: #555555;
+  --accent: #a0a0a0;
+  --accent-ink: #111111;
+  --danger: #b0b0b0;
+  --map-ground: #2c2c2c;
+  --map-outside: #202020;
+  --map-lawn: #373737;
+  --map-path: #5c5c5c;
+  --map-path-line: #aaaaaa;
+  --map-building: #d0d0d0;
+  --map-building-line: #111111;
+  --map-building-roof: #707070;
+  --map-tree: #858585;
+  --map-inactive: #626262;
+  --route-line: #f5f5f5;
+}
+
+[data-theme='orchid'] {
+  --bg: #dddddd;
+  --surface: #f4f4f4;
+  --surface-2: #e7e7e7;
+  --ink: #202020;
+  --ink-2: #5c5c5c;
+  --line: #bebebe;
+  --line-strong: #777777;
+  --primary: #666666;
+  --primary-ink: #ffffff;
+  --primary-soft: #c9c9c9;
+  --accent: #858585;
+  --accent-ink: #ffffff;
+  --danger: #555555;
+  --map-ground: #e5e5e5;
+  --map-outside: #d6d6d6;
+  --map-lawn: #eeeeee;
+  --map-path: #c4c4c4;
+  --map-path-line: #656565;
+  --map-building: #b8b8b8;
+  --map-building-line: #333333;
+  --map-building-roof: #555555;
+  --map-tree: #696969;
+  --map-inactive: #a0a0a0;
+  --route-line: #282828;
+}
